@@ -4,7 +4,7 @@ API for surveys (Django 2.2.10, djangorestframework 3.10.2)
 
 ### API Endpoints
 
-#### Admin's features
+#### Admin's endpoints
 
 * **api/surveys/create** (Endpoint for creating surveys)
 * **api/surveys/update_delete/<int:pk>/** (Endpoint for update or delete survey)
